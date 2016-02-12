@@ -1,10 +1,6 @@
 #include "stdio.h"
 int VOL=25;
 float BEAT=0.375;
-void f()
-{
-t();
-}
 void play(float secs,float freq)
 {
     int vol=VOL;
