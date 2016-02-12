@@ -3,7 +3,7 @@ int VOL=25;
 float BEAT=0.375;
 void f()
 {
-play();
+t();
 }
 void play(float secs,float freq)
 {
